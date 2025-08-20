@@ -18,7 +18,7 @@ const Hero = () => {
             Yabets Workaferahu
           </h1>
           <h2 className="text-2xl md:text-4xl text-tech-light/70 font-bold mb-6 opacity-0 animate-fade-in" style={{ animationDelay: "0.6s" }}>
-            I build( test ) <span className="text-tech-cyan">
+            I build and test <span className="text-tech-cyan">
               <TypingEffect
                 strings={[
                   "web applications.",
